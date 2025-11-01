@@ -1,0 +1,10 @@
+pymupdf==1.25.5
+langchain==0.3.24 
+langchain-community==0.3.22
+chromadb
+pytest==8.3.5
+unstructured[md]==0.17.2
+langchain_chroma==0.2.3
+langchain_ollama==0.3.2
+Flask==3.1.0
+flask-cors

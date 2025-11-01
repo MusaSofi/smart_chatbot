@@ -1,0 +1,60 @@
+# To start/stop the services, use docker-compose up/down
+services:
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - 11434:11434
+    volumes:
+      - .:/code
+      - ./ollama/ollama:/root/.ollama
+    container_name: ollama
+    pull_policy: always
+    tty: true
+    restart: always
+    environment:
+      - OLLAMA_KEEP_ALIVE=24h
+      - OLLAMA_HOST=0.0.0.0
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    runtime: nvidia
+    networks:
+      localnet:
+
+  server:
+    image: flask_server
+    build:
+      dockerfile: Server.dockerfile
+      context: .
+    volumes:
+      - ./application/:/application/
+    container_name: flask_server
+    ports:
+      - 5000:5000
+    stdin_open: true
+    tty: true
+    networks:
+      localnet:
+
+  vuejs:
+    image: vuejs_client
+    build:
+      dockerfile: Vuejs.dockerfile
+      context: .
+    #volumes:
+     # - ./application/client:/application/client
+    container_name: vuejs_client
+    ports:
+      - 5173:5173
+    stdin_open: true
+    tty: true
+    networks:
+      localnet:
+
+networks:
+  localnet:
+    attachable: true
+    driver: bridge

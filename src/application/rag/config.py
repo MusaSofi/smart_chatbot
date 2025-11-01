@@ -1,0 +1,9 @@
+CHROMA_PATH = "/application/rag/chroma"
+SOURCES_FILE = "/application/rag/sources.json"
+EMPEDINGS_MODEL = "bge-m3"
+LANGUAGE_MODEL = "gemma3:27b"
+OLLAMA_BASE_URL = "ollama:11434"
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 200
+DB_RETRIEVER_K = 5
+CONVERSATION_BUFFER_WINDOW_MEMORY_K = 3

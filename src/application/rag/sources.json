@@ -1,0 +1,421 @@
+[
+  {
+    "type": "path",
+    "subtype": "md",
+    "path": "/application/rag/data/mds"
+  },
+  {
+    "type": "xml",
+    "path": "/application/rag/data/xmls/faculty.xml"
+  },
+  {
+    "type": "path",
+    "subtype": "xml",
+    "path": "/application/rag/data/xmls/staff"
+  },
+  {
+    "type": "path",
+    "subtype": "xml",
+    "path": "/application/rag/data/xmls/courses_2025S"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/studienservicecenter-ssc/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/studienprogrammleitung/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/forschung/"
+  },
+  {
+    "type": "url",
+    "url": "https://bcb.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://ct.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://cosy.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://dm.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://eden.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://ke.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://mis.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://ni.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://sc.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://sec.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://swa.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://taa.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://vda.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://wst.cs.univie.ac.at/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/fuer-studieninteressierte/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/semesterplan-bachelor-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/schwerpunkte/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/fuer-studieninteressierte/passt-informatik-zu-mir/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-wirtschaftsinformatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/master-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/master-medieninformatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/master-wirtschaftsinformatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/master-bioinformatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/master-data-science/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/master/master-medizinische-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://wirtschaftswissenschaften.univie.ac.at/studium/vor-dem-studium/master-business-analytics/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/studienangebot/masterstudien/digital-humanities-master/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/lehramt/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/lehramt/bachelor-lehramt-uf-digitale-grundbildung-und-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/lehramt/master-lehramt-uf-digitale-grundbildung-und-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://docs.univie.ac.at/research-and-doctoral-programme/doctoral-programme/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/erweiterungscurriculum-ec/computational-thinking/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studienangebot/erweiterungscurriculum-ec/computational-thinking/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/fuer-studieninteressierte/aufnahmeverfahren/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/wirtschafts-informatik/atde/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/studien-mit-aufnahme-eignungsverfahren/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/testdetails/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/ausnahmen-vom-aufnahme-eignungsverfahren/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/kostenbeitrag/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/fristen-fuer-aufnahme-eignungsverfahren/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/haeufig-gestellte-fragen-faq/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassungsverfahren/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/wirtschafts-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/wirtschafts-informatik/nicht-euewr-wenig-deutsch/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/wirtschafts-informatik/nicht-euewr-mit-deutsch/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/wirtschafts-informatik/euewrch-mit-deutsch/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/aufnahmeverfahren/wirtschafts-informatik/euewrch-wenig-deutsch/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassungsverfahren/masterstudien/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassungsverfahren/lehramtsstudien/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/vwu-fuer-bachelor-diplomstudien/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/vwu-fuer-bachelor-diplomstudien/zulassung-zum-vwu-ba/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/studierende-im-vwu/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/vwu-fuer-bachelor-diplomstudien/abschluss-des-vwu-ba/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/vwu-fuer-masterstudien/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/vwu-fuer-masterstudien/zulassung-zum-vwu-ma/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/studierende-im-vwu/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/vwu-fuer-masterstudien/abschluss-des-vwu-ma/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/nachmatura/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/bildungskarenz/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/studienberechtigungspruefung-studieren-ohne-matura/zulassung-zur-studienberechtigungspruefung/ausserordentliches-studium-sbp/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/lehrveranstaltungen-aus-interesse-besuchen/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/zulassung/ausserordentliches-studium/vorstudienlehrgang-der-wiener-universitaeten-vwu/studierende-im-vwu/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/studienbeitrag/hoehe-studienbeitrag/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/studienbeitrag/einzahlungmeldung-der-fortsetzung/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/studienbeitrag/erlass-und-rueckerstattung/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/fuer-studieninteressierte/passt-informatik-zu-mir/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/fuer-studieninteressierte/warum-informatik-an-der-universitaet-wien/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/fuer-studieninteressierte/was-kann-ich-nach-dem-studium-erreichen/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studieren-im-ausland/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studieren-im-ausland/erasmus-im-detail/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/studieren-im-ausland/erasmus-im-detail/wichtige-infos/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/anmeldung-zu-lehrveranstaltungen-pruefungen/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/anerkennungen/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/mentoring/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/aktives-studieren/"
+  },
+  {
+    "type": "url",
+    "url": "https://ufind.univie.ac.at/de/index.html"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/kommissionelle-wiederholungspruefung/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/barrierefrei-studieren/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/cluster/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/bachelorarbeit-empfehlungen/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/news-events-fuer-studierende/"
+  },
+  {
+    "type": "url",
+    "url": "https://bibliothek.univie.ac.at/fb-publizistik-informatik/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/wegweiser-masterstudium/zulassung-zum-masterstudium/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/wegweiser-masterstudium/anmeldung-masterarbeit-themenfindung/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/studienabschluss/abschluss-des-bachelor-studiums/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/studienabschluss/abschluss-des-masterstudiums/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/studium/infos-fuer-studierende/studienabschluss/abschluss-lehramt/"
+  },
+  {
+    "type": "url",
+    "url": "https://doktorat.univie.ac.at/doktoratsablauf/abschlussphase/einreichen-und-begutachtung/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/fakultaet/leitbild/"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/fakultaet/kontakt/?no_cache=1"
+  },
+  {
+    "type": "url",
+    "url": "https://informatik.univie.ac.at/jubilaeum/"
+  },
+  {
+    "type": "url",
+    "url": "https://studieren.univie.ac.at/semesterplanung/steop/"
+  }
+]
